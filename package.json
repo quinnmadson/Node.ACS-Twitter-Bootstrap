@@ -7,7 +7,7 @@
   "logfile" : "natb.log",
   "keywords": [
   ],
-  "author": "",
+  "author": "Quinn Madson (quinn@firstsnow.co)",
   "maintainers": [
   ],
   "contributors": [
@@ -18,6 +18,8 @@
   },
   "preferGlobal": false,
   "dependencies": {
+  	"express-partials": "*",
+  	"ejs": "*"
   },
   "license":"",
   "private": true
